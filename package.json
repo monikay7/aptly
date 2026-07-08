@@ -1,0 +1,8 @@
+{
+  "name": "aptly",
+  "version": "0.0.1",
+  "description": "Workflow automation plugin for Obsidian",
+  "main": "main.js",
+  "author": "Monika",
+  "license": "MIT"
+}
