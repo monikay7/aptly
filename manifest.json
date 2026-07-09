@@ -3,7 +3,7 @@
   "name": "Aptly",
   "version": "0.0.1",
   "minAppVersion": "1.5.0",
-  "description": "Workflow automation plugin for Obsidian.",
+  "description": "Workflow automation plugin for managing notes and improving productivity.",
   "author": "Monika",
   "authorUrl": "https://github.com/monikay7",
   "isDesktopOnly": false
